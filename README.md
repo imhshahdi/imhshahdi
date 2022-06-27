@@ -1,4 +1,6 @@
-### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="5%" height="5%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hossein :)
+<div align="center" >
+<samp><h1> Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="5%" height="5%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hossein :) </h1></samp>
+
 
 <!-- ************************************************************ -->
 
@@ -10,6 +12,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imhshahdi&layout=compact&theme=dark" />
 </a>
 -->
+
+<!-- ************************************************************ -->
 
 
 ![age](https://img.shields.io/badge/age-22-blue)
@@ -29,6 +33,9 @@
 <br />
 <img src="https://profile-counter.glitch.me/{imhshahdi}/count.svg" alt="visitor count" />
   </div>
+
+
+<!-- ************************************************************ -->
 
 
 <!--
