@@ -1,4 +1,4 @@
-### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 0.5;">, I am Hossein :)
+### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="5%" height="5%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hossein :)
 
 <!-- ************************************************************ -->
 
