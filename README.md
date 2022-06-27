@@ -1,4 +1,4 @@
-### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hossein :)
+### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 0.5;">, I am Hossein :)
 
 <!--
 **imhshahdi/imhshahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
