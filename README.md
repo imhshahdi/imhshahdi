@@ -1,5 +1,12 @@
 ### Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 0.5;">, I am Hossein :)
 
+<a href="https://github.com/q-Amyr-p/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q-Amyr-p&show_icons=true&include_all_commits=true&theme=dark" alt="Amyr's github stats" />
+</a>
+<a href="https://github.com/q-Amyr-p/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q-Amyr-p&layout=compact&theme=dark" />
+</a>
+
 <!--
 **imhshahdi/imhshahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
