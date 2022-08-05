@@ -1,5 +1,5 @@
 <div align="center" >
-<samp><h1> Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="4%" height="4%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I am Hossein :) </h1></samp>
+<samp><h1> Hi there <img data-target="animated-image.replacedImage" alt="wave.gif" width="4%" height="4%" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="display: block; opacity: 1;">, I'm Hossein :) </h1></samp>
 
 
 <!-- ************************************************************ -->
